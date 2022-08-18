@@ -1,0 +1,156 @@
+body {
+margin: 0;
+text-align: center;
+font-family: 'Quicksand', sans-serif;
+}
+
+.top-cloud {
+position: absolute;
+top: 50px;
+right: 300px;
+}
+
+.bottom-cloud {
+position: absolute;
+left: 200px;
+bottom: 300px;
+}
+
+.top-container {
+background: #9CB4CC;
+position: relative;
+padding-top: 100px;
+/* padding: 20px; */
+}
+
+.mountain{
+margin: -5px;
+}
+
+.profile {
+width: 40%;
+margin: 40px auto 60px;
+}
+
+h1 {
+margin-top: 50px;
+font-size: 500%;
+font-family: 'Shadows Into Light', cursive;
+color: #F2D7D9;
+font-weight: normal;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #D3CEDF;
+border-width: 10px;
+width: 7%;
+margin: 100px auto;
+}
+
+.middle-container {
+background: #748DA6;
+padding: 50px;
+/* margin: 100px 0; */
+/* height: 200px;
+width: 200px;
+inline-size: 100%;*/
+}
+
+h2 {
+color: #F2D7D9;
+font-size: 2.5rem;
+}
+
+h3 {
+color: #D3CEDF;
+font-size: 2.5rem;
+}
+
+.bottom-container {
+background: #D3CEDF;
+padding: 50px 0 20px;
+/*height: 200px;
+width: 200px;
+padding: 20px;
+inline-size: 100%;*/
+}
+
+p {
+font-size: 1.5rem;
+font-weight: bold;
+color: #112B3C;
+line-height: 2;
+}
+
+.computer {
+color: #112B3C;
+width: 30%;
+float: left;
+margin-right: 30px;
+}
+
+.blueprint {
+color: #112B3C;
+width: 30%;
+float: right;
+margin-left: 30px;
+}
+
+.skill-row {
+margin: 100px auto 100px auto;
+width: 50%;
+text-align: left;
+line-height: 2;
+}
+
+a {
+color: #748DA6;
+font-size: 20px;
+font-family: 'Quicksand', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover {
+color: #9CB4CC;
+}
+
+.copyright {
+font-size: .85rem;
+padding: 20px 0;
+}
+
+.btn {
+padding: 7px;
+font-size:20px;
+font-family: 'Quicksand', sans-serif;
+width:140px;
+height:50px;
+border-width:1px;
+color:rgba(156, 180, 204, 1);
+border-color:rgba(211, 206, 223, 1);
+border-top-right-radius:8px;
+border-bottom-left-radius:8px;
+border-bottom-right-radius:8px;
+box-shadow: 0px 10px 14px -7px rgba(45, 29, 77, 1);
+text-shadow: 0px 1px 0px rgba(35, 34, 37, 1);
+background:linear-gradient(rgba(211, 206, 223, 1), rgba(255, 255, 255, 1));
+}
+
+.btn:hover {
+background: linear-gradient(rgba(255, 255, 255, 1), rgba(211, 206, 223, 1));
+}
+
+.twitter-icon{
+position: absolute;
+right: 590px;
+height: 20px;
+width: 20px;
+}
+
+/* Attributes
+<a href="https://www.flaticon.com/free-icons/gamepad" title="gamepad icons">Gamepad icons created by Smashicons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/architecture" title="architecture icons">Architecture icons created by wanicon - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/tablet" title="tablet icons">Tablet icons created by smalllikeart - Flaticon</a>
